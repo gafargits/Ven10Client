@@ -1,0 +1,17 @@
+.NavCenter{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 90%;
+  font-size: 1.2rem;
+}
+.Link{
+  text-decoration: none;
+  color: grey;
+  cursor: pointer;
+}
+.Link:hover,
+.Link:active,
+.Link:visited{
+  text-decoration: none;
+}
